@@ -1,0 +1,22 @@
+﻿  ArbitraryOverwrite x64.c
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(40,7): warning C4047:  “函数”:“DWORD”与“void *”的间接级别不同
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(40,7): warning C4024:  “CreateFileA”: 形参和实参 3 的类型不同
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(43,7): warning C4047:  “函数”:“DWORD”与“void *”的间接级别不同
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(43,7): warning C4024:  “CreateFileA”: 形参和实参 6 的类型不同
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(70,25): warning C4047:  “return”:“DWORD64”与“LPVOID”的间接级别不同
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(73,13): warning C4047:  “return”:“DWORD64”与“void *”的间接级别不同
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(80,9): warning C4477:  “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD64”
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(87,9): warning C4477:  “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD64”
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(119,9): warning C4477:  “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD64”
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(120,9): warning C4477:  “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD64”
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(122,43): warning C4047:  “=”:“LPVOID”与“DWORD64”的间接级别不同
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(123,41): warning C4047:  “=”:“LPVOID”与“DWORD64”的间接级别不同
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(136,1): warning C4244:  “初始化”: 从“UINT64”转换到“UINT32”，可能丢失数据
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(177,9): warning C4477:  “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD64”
+D:\Codes\Win8\ArbitraryOverwrite x64\ArbitraryOverwrite x64\ArbitraryOverwrite x64.c(220,9): warning C4477:  “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD64”
+  正在生成代码
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ArbitraryOverwrite x64.vcxproj -> D:\Codes\Win8\ArbitraryOverwrite x64\x64\Release\ArbitraryOverwrite x64.exe
