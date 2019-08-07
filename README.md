@@ -20,4 +20,4 @@
 
 ## [+] Windows 10 x64 1703
 
-![win10_1703_x64](C:\Users\xushijie\Desktop\Write-What-Where\win10_1703_x64.gif)
+![win10_1703_x64](win10_1703_x64.gif)
